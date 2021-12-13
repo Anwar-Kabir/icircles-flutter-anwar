@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "25548890138",
+    "project_id": "icircles-29983",
+    "storage_bucket": "icircles-29983.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25548890138:android:3a3279b832b5168ae6b1a3",
+        "android_client_info": {
+          "package_name": "com.icircles.app.icircles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25548890138-1ub896k7a4lbbp7nlkhfqec6cd63953m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.icircles.app.icircles",
+            "certificate_hash": "4f763f5409281bc9994e5dadfa617ad1c5579981"
+          }
+        },
+        {
+          "client_id": "25548890138-dr3060srismga2et4etd20ckq8saiq3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Jssfpd_APIQ-wG21TRZP9JzM8lAx3Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25548890138-dr3060srismga2et4etd20ckq8saiq3k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "25548890138-fb4e6ccuch20cd6t43klr9kc31vucuf2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.icircles.app.icircles"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
